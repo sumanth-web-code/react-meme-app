@@ -1,0 +1,17 @@
+.meme_container {
+    margin-top: 20px;
+}
+
+.meme_skip {
+    background-color: cornflowerblue;
+}
+
+.meme_generate {
+    background-color: teal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0px 0px 5px black;
+  }

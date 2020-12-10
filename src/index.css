@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://raw.githubusercontent.com/Zackazt/MemeCreator/master/src/bg.jpg');
+  background-position: 65% 30%;
+  
+  
+  
 }
 
 code {

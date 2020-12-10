@@ -1,0 +1,12 @@
+.memeview_container{
+    margin-top: 45px;
+}
+
+.memeview_button{
+    background-color: teal;
+}
+
+.memeview_copy{
+    background-color: tomato;
+    margin-top: 20px;
+}
